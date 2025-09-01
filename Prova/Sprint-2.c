@@ -1,9 +1,3 @@
-// Enzo Piazentin 				RM: 564216
-// Fernando Almeida				RM: 564820
-// Gabriel Ber Soares Tarone		RM: 563520
-// Vinicius Barbosa Gomes			RM: 564854
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
